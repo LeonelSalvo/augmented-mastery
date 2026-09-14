@@ -1,0 +1,33 @@
+es/manifiesto.md
+  s_1a3a01a55ebc69::t_a51dfb5043684d 1-170
+LICENSES/MIT-legacy.txt
+  s_1a3a01a55ebc69::t_46baf79864257d 1-21
+README.md
+  s_1a3a01a55ebc69::t_2210386666dd3a 1-21
+es/auctor.md
+  s_1a3a01a55ebc69::t_2f986f72ace9ff 1-151
+.gitignore
+  s_1a3a01a55ebc69::t_c3382223fdd1d7 1-2
+en/manifesto.md
+  s_1a3a01a55ebc69::t_87338a8094f377 1-154
+LICENSE
+  s_1a3a01a55ebc69::t_90f7e11b7a4dab 1-427
+LICENSING.md
+  s_1a3a01a55ebc69::t_eff02a8fd03f09 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7f4b93725b594bddde8cbd9eac8c52ce885ebe3d",
+  "prompts": {},
+  "sessions": {
+    "s_1a3a01a55ebc69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07d98-47b3-7340-9ba6-9cb51fab9511",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Leonel Salvo <73452456+LeonelSalvo@users.noreply.github.com>"
+    }
+  }
+}
